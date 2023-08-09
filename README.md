@@ -1,0 +1,2 @@
+# testRepoManual
+Manual repository
